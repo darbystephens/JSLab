@@ -1,4 +1,4 @@
-var playerHealth = 30;
+var playerHealth = 40;
 var grantHealth = 10;
 var grantLives = 3;
 var playerLives = 1;
